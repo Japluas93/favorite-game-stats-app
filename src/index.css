@@ -1,5 +1,4 @@
 body {
-  background: url('https://images.unsplash.com/photo-1515539408953-9403f070ad2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -9,6 +8,6 @@ body {
 }
 
 .gradient {
-    background-color: rgba(255,255,255,.8);
-    border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
 }
